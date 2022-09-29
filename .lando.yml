@@ -1,7 +1,8 @@
 name: my-drupal-portfolio
 recipe: drupal9
 config:
-  webroot:
+  webroot: .
+  via: nginx
 services:
   myportfolioservice:
     type: phpmyadmin
