@@ -21,6 +21,9 @@
         "drupal/core-recommended": "^9.4",
         "drupal/core-vendor-hardening": "^9.4",
         "drupal/devel": "^4.2",
+        "drupal/dxpr_builder": "^2.1",
+        "drupal/dxpr_theme": "^1.2",
+        "drupal/thex": "^9.2",
         "drush/drush": "^11.1"
     },
     "conflict": {
